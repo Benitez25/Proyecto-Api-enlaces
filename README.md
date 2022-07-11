@@ -16,7 +16,7 @@ Programa basado en el lenguaje de Programación `JavaScript`
 ## Imagenes del Proyecto
 
 *Documentación*\
-![Alt text](imagen.png)
+![Alt text](imagendoc.png)
 
 ## Instalacion
 

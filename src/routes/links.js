@@ -142,7 +142,7 @@ router.get('/getLink/:id', verifyToken ,cLinks.getLink)
 router.delete('/deleteLinks/:id', verifyToken ,cLinks.deleteLinks)
 /**
     * @swagger
-    * /api/deleteLinks/{id}:
+    * /api/updateLink/{id}:
     *   put:
     *       security:
     *           - bearerAuth: [admin]
